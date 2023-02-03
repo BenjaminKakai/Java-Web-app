@@ -6,7 +6,6 @@ import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.annotation.ComponentScan;
 
 import com.in28minutes.learnspringframework.game.GameRunner;
-import com.in28minutes.learnspringframework.game.MarioGame;
 
 @SpringBootApplication
 @ComponentScan("com.in28minutes.learnspringframework")
